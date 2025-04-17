@@ -1,2 +1,2 @@
-## Hello git
-## Adding test to the feature branch
+
+## Added test to the feature branch
